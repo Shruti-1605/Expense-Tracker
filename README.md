@@ -197,33 +197,8 @@ pip install matplotlib seaborn
 pip install tkcalendar
 ```
 
-### Reset Application
-If you encounter persistent issues:
-1. Close the application
-2. Delete `data/expenses.db`
-3. Restart the application
 
-## 📞 Support
 
-For help and support:
-- 📧 Create an issue on GitHub
-- 📖 Check the troubleshooting section
-- 💬 Review existing issues for solutions
 
-## 🤝 Contributing
 
-We welcome contributions! To contribute:
 
-1. **Fork** the repository
-2. **Create** a feature branch
-3. **Make** your changes
-4. **Test** thoroughly
-5. **Submit** a pull request
-
-## 📄 License
-
-MIT License - feel free to use and modify for personal and commercial projects.
-
----
-
-**🎉 Ready to track your expenses? Run `python app.py` to get started!**
