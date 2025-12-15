@@ -1,0 +1,7 @@
+sqlalchemy
+matplotlib
+tkcalendar
+seaborn
+pandas
+numpy
+Pillow
