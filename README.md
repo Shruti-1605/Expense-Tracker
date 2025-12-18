@@ -171,3 +171,17 @@ python build_executable.py
 - **Database Backup**: Complete data protection
 
 
+
+## 📸 Project Screenshots
+
+![Screenshot 84](images/Screenshot%20(84).png)
+![Screenshot 85](images/Screenshot%20(85).png)
+![Screenshot 86](images/Screenshot%20(86).png)
+![Screenshot 87](images/Screenshot%20(87).png)
+![Screenshot 88](images/Screenshot%20(88).png)
+![Screenshot 89](images/Screenshot%20(89).png)
+![Screenshot 90](images/Screenshot%20(90).png)
+![Screenshot 91](images/Screenshot%20(91).png)
+![Screenshot 95](images/Screenshot%20(95)%20-%20Copy.png)
+
+
