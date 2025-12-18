@@ -183,6 +183,3 @@ python build_executable.py
 ![Screenshot 90](expense-tracker/images/Screenshot%20(90).png)
 ![Screenshot 91](expense-tracker/images/Screenshot%20(91).png)
 ![Screenshot 92](expense-tracker/images/Screenshot%20(92)%20-%20Copy.png)
-
-
-
