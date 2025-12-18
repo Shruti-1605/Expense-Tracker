@@ -172,23 +172,22 @@ python build_executable.py
 
 
 
-## 📸 Project Screenshots
+<h2>📸 Project Screenshots</h2>
 
-![Screenshot 84](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(84).png)
+<img src="https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(84).png" width="600"/>
 
-![Screenshot 85](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(85).png)
+<img src="https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(85).png" width="600"/>
 
-![Screenshot 86](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(86).png)
+<img src="https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(86).png" width="600"/>
 
-![Screenshot 87](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(87)%20-%20Copy.png)
+<img src="https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(87)%20-%20Copy.png" width="600"/>
 
-![Screenshot 88](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(88).png)
+<img src="https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(88).png" width="600"/>
 
-![Screenshot 89](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(89).png)
+<img src="https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(89).png" width="600"/>
 
-![Screenshot 90](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(90).png)
+<img src="https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(90).png" width="600"/>
 
-![Screenshot 91](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(91).png)
+<img src="https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(91).png" width="600"/>
 
-![Screenshot 92](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(92)%20-%20Copy.png)
-
+<img src="https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(92)%20-%20Copy.png" width="600"/>
