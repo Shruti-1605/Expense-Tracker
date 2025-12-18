@@ -174,15 +174,15 @@ python build_executable.py
 
 ## 📸 Project Screenshots
 
-![Screenshot 84](images/Screenshot%20(84).png)
-![Screenshot 85](images/Screenshot%20(85).png)
-![Screenshot 86](images/Screenshot%20(86).png)
-![Screenshot 87](images/Screenshot%20(87)%20-%20Copy.png)
-![Screenshot 88](images/Screenshot%20(88).png)
-![Screenshot 89](images/Screenshot%20(89).png)
-![Screenshot 90](images/Screenshot%20(90).png)
-![Screenshot 91](images/Screenshot%20(91).png)
-![Screenshot 92](images/Screenshot%20(92)%20-%20Copy.png)
+![Screenshot 84](expense-tracker/images/Screenshot%20(84).png)
+![Screenshot 85](expense-tracker/images/Screenshot%20(85).png)
+![Screenshot 86](expense-tracker/images/Screenshot%20(86).png)
+![Screenshot 87](expense-tracker/images/Screenshot%20(87)%20-%20Copy.png)
+![Screenshot 88](expense-tracker/images/Screenshot%20(88).png)
+![Screenshot 89](expense-tracker/images/Screenshot%20(89).png)
+![Screenshot 90](expense-tracker/images/Screenshot%20(90).png)
+![Screenshot 91](expense-tracker/images/Screenshot%20(91).png)
+![Screenshot 92](expense-tracker/images/Screenshot%20(92)%20-%20Copy.png)
 
 
 
