@@ -174,12 +174,21 @@ python build_executable.py
 
 ## 📸 Project Screenshots
 
-![Screenshot 84](expense-tracker/images/Screenshot%20(84).png)
-![Screenshot 85](expense-tracker/images/Screenshot%20(85).png)
-![Screenshot 86](expense-tracker/images/Screenshot%20(86).png)
-![Screenshot 87](expense-tracker/images/Screenshot%20(87)%20-%20Copy.png)
-![Screenshot 88](expense-tracker/images/Screenshot%20(88).png)
-![Screenshot 89](expense-tracker/images/Screenshot%20(89).png)
-![Screenshot 90](expense-tracker/images/Screenshot%20(90).png)
-![Screenshot 91](expense-tracker/images/Screenshot%20(91).png)
-![Screenshot 92](expense-tracker/images/Screenshot%20(92)%20-%20Copy.png)
+![Screenshot 84](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(84).png)
+
+![Screenshot 85](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(85).png)
+
+![Screenshot 86](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(86).png)
+
+![Screenshot 87](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(87)%20-%20Copy.png)
+
+![Screenshot 88](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(88).png)
+
+![Screenshot 89](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(89).png)
+
+![Screenshot 90](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(90).png)
+
+![Screenshot 91](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(91).png)
+
+![Screenshot 92](https://raw.githubusercontent.com/Shruti-1605/Expense-Tracker/main/expense-tracker/images/Screenshot%20(92)%20-%20Copy.png)
+
